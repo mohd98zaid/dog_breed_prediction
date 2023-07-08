@@ -1,10 +1,10 @@
-#Dog Breed Prediction
+Dog Breed Prediction
 This repository contains code for a dog breed prediction model. The model is built using the TensorFlow and Keras libraries and uses a convolutional neural network (CNN) architecture.
 
-##Getting Started
+Getting Started
 To get started with this project, follow the instructions below:
 
-##Prerequisites
+Prerequisites
 Make sure you have the following installed:
 
 Python 3.x
